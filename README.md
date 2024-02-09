@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vijay Brat Pandey</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=VON9gHTr&id=E43A15DF70EF8C7D6F8C281CB6211E2B48C97D7D&thid=OIP.VON9gHTrzeHZbHfXsqfzEAHaEq&mediaurl=https%3a%2f%2fi.pinimg.com%2foriginals%2f54%2fe3%2f7d%2f54e37d8074ebcde1d96c77d7b2a7f310.gif&exph=428&expw=680&q=animated+coding+gif&simid=608048923178854199&FORM=IRPRST&ck=6294EFF82FC0C22485390F41259680AA&selectedIndex=0&itb=0&idpp=overlayview&ajaxhist=0&ajaxserp=0">
+<img align="right" alt="coding" width="400" src=https://camo.githubusercontent.com/f1f2bc6e7ec110b34bab4ec55aa5c93ebae552ae011f5756bd7b7f783d627a6d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966">
 - 🌱 I’m currently learning **React.js and Next.js**
 
 - 💬 Ask me about **Tailwind Css , JavaScript**
